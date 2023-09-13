@@ -2,13 +2,14 @@
     margin: 0;
     padding: 0;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    max-width: 100%;
 }
 
 .navbar {
     text-align: center;
     padding: 10px;
     margin: 10px;
-    margin-left:15px;
+    margin-left:10px;
 }
 
 .navbar a{
@@ -25,9 +26,9 @@
 
 #starter{
     color: #dc4d01;
-    margin-left: 10px;
+    margin-left: 5px;
     font-size: 20px;
-    padding-right: 150px;
+    padding-right: 200px;
 }
 
 #home{
@@ -62,7 +63,7 @@ button{
     background-color: #dc4d01;
     border-radius: 15px;
     margin-top: 35px;
-    margin-left: 70px;
+    margin-left: 40px;
 }
 
 .header h3{
@@ -81,7 +82,7 @@ button{
 
 .main_header{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-left: 60px;
+    margin-left: 40px;
     
 }
 .main_header h1{
@@ -464,7 +465,7 @@ a{
     padding: 0.5em;
 }
 .patners{
-    height: 50px;
+    height: 90px;
     max-width: 100%;
     background:-webkit-linear-gradient(45deg,#f56b20,#dd2840);
     margin-top: 40px;
